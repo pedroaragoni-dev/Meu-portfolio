@@ -14,6 +14,18 @@
     --destaque: #0077ff;
     --destaque-inverso: #66bbff;
 }
+
+body.escuro {
+    --fundo-principal: #222222;
+    --fundo-card: #444444;
+
+    --texto: #e0e0e0;
+    --texto-inverso: #333333;
+
+    --destaque: #ff5522;
+    --destaque-inverso: #a73917;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.5em;
